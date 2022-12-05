@@ -1,3 +1,5 @@
+
+
 {
   "isSuccess": true,
   "message": "Successfully data fetch",
@@ -65,7 +67,7 @@
         "inventoryId": 2,
         "catalogId": 3,
         "batchNumber": "BATCH NO 2",
-        "availableQuantity": 3,
+        "availableQuantity": 4,
         "expiryDate": "7/24",
         "mrp": 46.4
       }
