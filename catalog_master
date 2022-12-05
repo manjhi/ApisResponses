@@ -1,0 +1,20 @@
+{
+"isSuccess":true,
+"message":"Successfully data fetch",
+"data":{
+"catalogMaster":[
+{
+"catalogId":1,
+"qrCode":"A000143247",
+"title":Magneon Inj 50% W/V (2ML),
+"matCode":"KP370106",
+"uom":"abc",
+"uoi":"abc",
+"locationName":"Loc1",
+"exepectedQty":3,
+"scannedQty":0,
+"equalQty":0
+}
+}
+}
+}
