@@ -65,7 +65,7 @@
         "inventoryId": 2,
         "catalogId": 3,
         "batchNumber": "BATCH NO 2",
-        "availableQuantity": 6,
+        "availableQuantity": 3,
         "expiryDate": "7/24",
         "mrp": 46.4
       }
